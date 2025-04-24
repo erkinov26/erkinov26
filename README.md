@@ -14,8 +14,8 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
 
 ## 🧰 Frameworks & Libraries:
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass)
-![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
-![NextJs](https://img.shields.io/badge/-Next-black?style=flat-square&logo=next)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
+![React Native](https://img.shields.io/badge/-React%20Native-black?style=flat-square&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
+![Zustand](https://img.shields.io/badge/-Zustand-black?style=flat-square&logo=zustand)
