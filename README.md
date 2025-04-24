@@ -17,4 +17,4 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass)
-![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=express)
+![Sass](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
